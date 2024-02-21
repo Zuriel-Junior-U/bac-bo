@@ -35,3 +35,12 @@ $ pip install -r requirements.txt
 $ python resultados.py
 
 ```
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Python](https://www.python.org/)
+- [Requests](https://requests.readthedocs.io/en/latest/)
+- [Websockets](https://websockets.readthedocs.io/en/stable/)
+- [Python-Dotenv](https://pypi.org/project/python-dotenv/)
